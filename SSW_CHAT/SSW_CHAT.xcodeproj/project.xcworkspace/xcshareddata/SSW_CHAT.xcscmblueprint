@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6BBE1812177B308F08077630967B4D021A3EC122",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6BBE1812177B308F08077630967B4D021A3EC122" : 0,
+    "64E26BBDFD63A6A5718853E9A4FC556B7A5733AA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0E63CAA6-A330-4344-9CEF-028AE04B4883",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6BBE1812177B308F08077630967B4D021A3EC122" : "SSW_CHAT\/",
+    "64E26BBDFD63A6A5718853E9A4FC556B7A5733AA" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SSW_CHAT",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SSW_CHAT\/SSW_CHAT.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/benjamincho\/ssw_study.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "64E26BBDFD63A6A5718853E9A4FC556B7A5733AA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/eunhwajung\/SSW_CHAT.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6BBE1812177B308F08077630967B4D021A3EC122"
+    }
+  ]
+}
